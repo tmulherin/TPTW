@@ -1,0 +1,69 @@
+﻿/*
+        scores	    	winner		    tim 			upickem			ceasers			espn			paolo
+        -------------   --------------  --------------  --------------  --------------  -------------  --------------
+light   #FFFFE1 		#EFEFFF		    #DAEEF3			#F5EFFB			#FFE3E3			#FFFAE0			#F8F8F8
+        255, 255, 225	239, 239, 255	218, 238, 243	245, 239, 251	255, 227, 227	255, 250, 224	248, 248, 248
+
+mediun  #D1CDE8		    #E1E1FF		    #9DD2DF			#F5EFFB			#FCCACA			#DDD9C4			#EAEAEA
+        209, 205, 232	225, 225, 255	157, 210, 223	227, 206, 246	252, 202, 202	221, 217, 196	234, 234, 234
+
+dark    #008000		    #3333CC		    #0B3861		    #5F04B4			#963634			#948A54			#5F5F5F
+        0, 128, 0		51, 51, 204		11, 56, 97		95, 4, 180		50, 54, 52		48, 138, 84		95, 95, 95
+*/
+
+a
+{
+    background-color: #E0F2F7;
+}
+body
+{
+    font-family: Verdana, Sans-Serif;
+    background-color: #0B0B61;
+    margin: 50px;
+}
+
+
+table
+{
+    border-collapse: collapse;  
+    border-spacing: 0px;
+}
+    
+th
+{
+    /*border-left-width: thin;
+    border-left-style: outset;
+    border-top-width: thin;
+    border-top-style: outset;
+    border-right-width: thin;
+    border-right-style: outset;
+    border-color: #0B0B61;
+    */
+    background-color: #E0F2F7;
+    width: 100px;
+}
+
+/*BackColor="AliceBlue" Height="400px" Width="800px"*/
+td
+{
+     background-color: #E0F2F7;
+     height: 400px;
+     width: 800px;
+}
+
+.blankRowCell
+{    background-color: #0B0B61;
+    height: 10px;
+}
+.blankColCell
+{
+    background-color: #0B0B61;
+    width: 7px;
+}
+
+.leftMarginOnly
+{
+    border-left-width: thin;
+    border-left-style: outset;
+    border-left-color: #0B0B61
+}

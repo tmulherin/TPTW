@@ -1,0 +1,8 @@
+D:\WebSites\TPTW\bin\TPTW.dll
+D:\WebSites\TPTW\bin\TPTW.pdb
+D:\WebSites\TPTW\bin\TPTW.xml
+D:\WebSites\TPTW\obj\Debug\TPTW.Resources.resources
+D:\WebSites\TPTW\obj\Debug\TPTW.vbproj.GenerateResource.Cache
+D:\WebSites\TPTW\obj\Debug\TPTW.dll
+D:\WebSites\TPTW\obj\Debug\TPTW.xml
+D:\WebSites\TPTW\obj\Debug\TPTW.pdb
